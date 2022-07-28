@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/JordanD/Main Menu.unity
+    guid: f20310099fc20b34aa016d48f3b2d888
+  - enabled: 1
+    path: Assets/Scenes/Main/Tutorial2.unity
+    guid: b282bd732836bab4da54e34f78388680
+  - enabled: 1
+    path: Assets/Scenes/Main/MainScene_BattleTest.unity
+    guid: 1e933ef0be051234684b71739e65b699
+  - enabled: 1
+    path: Assets/Scenes/Huy/Huy_Daemon_Face.unity
+    guid: aaefc3c81e129b0458fb958c95ffe907
+  - enabled: 1
+    path: Assets/Scenes/Main/YouLose.unity
+    guid: d00a8f7f5176b5847a3aa5ecaa1deb71
+  m_configObjects: {}
